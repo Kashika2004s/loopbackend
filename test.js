@@ -1,7 +1,7 @@
 // test.js
 const axios = require("axios");
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://loopbackend.onrender.com";
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
